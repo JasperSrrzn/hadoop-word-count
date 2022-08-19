@@ -1,0 +1,10 @@
+{
+  "namespace": "counting",
+  "type": "record",
+  "name": "WordCountRecord",
+  "doc": "The count of word occurence.",
+  "fields": [
+    {"name": "word", "type": "string", "order":  "ignore"},
+    {"name": "count", "type":  "int", "order":  "descending"}
+  ]
+}

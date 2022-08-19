@@ -1,0 +1,3 @@
+Hello, my name is Jasper.
+This is a an example text file.
+I will use this for learning the hadoop mapreduce framework.
